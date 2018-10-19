@@ -16,7 +16,7 @@
 ### 2.比较两图片，找到缺口的左侧边界
 ### 3.按先加速再减速的方式拖动验证码
 ### 4.登陆成功！
-#### 注意：
-##### 请先安装chrome和chromedriver以及bs4,selenium库
+## 注意：
+### 请先安装chrome和chromedriver以及bs4,selenium库
 #### 捕获的信息:
 ![](keys.jpg)
