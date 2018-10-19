@@ -18,3 +18,5 @@
 ### 4.登陆成功！
 #### 注意：
 ##### 请先安装chrome和chromedriver以及bs4,selenium库
+#### 捕获的信息:
+![](keys.JPG)
