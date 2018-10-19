@@ -12,4 +12,4 @@
 ### 3.按先加速再减速的方式拖动验证码
 ### 4.登陆成功！
 #### 注意：
-请先安装chrome和chromedriver以及bs4
+请先安装chrome和chromedriver以及bs4,selenium库
